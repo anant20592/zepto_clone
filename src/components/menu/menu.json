@@ -1,0 +1,55 @@
+[{
+    "category": "Men", "categoryId": 1, "link": "men", "children": [
+
+{
+    "id": 11, "label": "Topwear", "link": "topwear", "children": [
+        {"id": 111, "label": "T-Shirts", "link": "t-shirts", "children": null},
+        {"id": 112, "label": "Casual Shirts", "link": "casual-shirts", "children": null},
+        {"id": 113, "label": "Formal Shirts", "link": "formal-shirts", "children": null},
+        {"id": 114, "label": "Sweatshirts", "link": "sweatshirts", "children": null},
+        {"id": 115, "label": "Sweaters", "link": "sweaters", "children": null},
+        {"id": 116, "label": "Jackets", "link": "jackets", "children": null},
+        {"id": 117, "label": "Blazers & Coats", "link": "blazers", "children": null}
+    ]
+},
+{
+    "id": 12, "label": "Indian & Festive Wear", "link": "ethnic-wear", "children": [
+        {"id": 121, "label": "Kurtas & Kurta Sets", "link": "kurtas", "children": null},
+        {"id": 122, "label": "Sherwanis", "link": "sherwanis", "children": null},
+        {"id": 123, "label": "Nehru Jackets", "link": "nehru-jackets", "children": null},
+        {"id": 124, "label": "Dhotis", "link": "dhotis", "children": null}
+    ]
+}
+    ]
+},
+{
+    "category": "Women", "categoryId": 2, "link": "women", "children": [
+
+{
+    "id": 21, "label": "Indian & Fusion Wear", "link": "fusion-wear", "children": [
+        {"id": 211, "label": "Kurtas & Suits", "link": "suits", "children": null},
+        {"id": 212, "label": "Kurtis, Tunics & Tops", "link": "tunics", "children": null},
+        {"id": 213, "label": "Sarees", "link": "sarees", "children": null},
+        {"id": 214, "label": "Ethnic Wear", "link": "ethnic-wear", "children": null},
+        {"id": 215, "label": "Leggings, Salwars & Churidars", "link": "salwars", "children": null},
+        {"id": 216, "label": "Skirts & Palazzos", "link": "skirts", "children": null},
+        {"id": 217, "label": "Dress Materials", "link": "dress", "children": null}
+    ]
+},
+{
+    "id": 22, "label": "Indian & Festive Wear", "link": "ethnic-wear", "children": [
+        {"id": 221, "label": "Kurtas & Kurta Sets", "link": "kurtas", "children": null},
+        {"id": 222, "label": "Sherwanis", "link": "sherwanis", "children": null},
+        {"id": 223, "label": "Nehru Jackets", "link": "nehru-jackets", "children": null},
+        {"id": 224, "label": "Dhotis", "link": "dhotis", "children": null}
+    ]
+}
+    ]
+},
+{
+    "category": "Kids", "categoryId": 3, "link": "kids", "children": null }
+]
+
+
+
+

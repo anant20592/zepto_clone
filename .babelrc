@@ -1,0 +1,29 @@
+/*
+Babel is a JS compiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version
+of JavaScript in current and older browsers or environments.
+
+Presets - a preset is a set of plugins used to support particular language features.
+preset-react - Transform jsx into js
+preset-env - It allows you to use the latest JavaScript without needing to micromanage which syntax transforms
+and optionally, browser polyfills are needed by your target environment(s).
+
+Transformations come in the form of plugins, which are small JavaScript programs that instruct Babel on how 
+to carry out transformations to the code.
+eg- @babel/plugin-transform-arrow-functions
+
+Instead of adding all the plugins we want one by one, we can use a "preset" which is just a pre-determined 
+set of plugins.
+*/
+
+
+{
+    "presets": [
+        "@babel/preset-env",
+    [
+      "@babel/preset-react",
+      {
+        "runtime": "automatic"
+      }
+    ]
+    ]
+}
